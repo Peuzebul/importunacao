@@ -3,7 +3,7 @@ O codigo original é [SendScriptWhatsApp](https://github.com/Matt-Fontes/SendScr
 
 ## Utilização
 
-*1 Abra [importunação.js](https://github.com/ribeial/importunacao/blob/main/importuna%C3%A7%C3%A3o.js)
+*1* Abra [importunação.js](https://github.com/ribeial/importunacao/blob/main/importuna%C3%A7%C3%A3o.js)
 Copie todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 No WhatsApp Web abra o console do Browser
 Cole o código no console e aperte Enter
