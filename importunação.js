@@ -23,6 +23,7 @@ async function enviarScript(scriptText){
 }
 
 enviarScript(`
+oi 
 oi
 oi
 oi
